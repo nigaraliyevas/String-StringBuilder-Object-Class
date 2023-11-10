@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "String-StringBilder-Object-Class/1.0.0": {
+        "runtime": {
+          "String-StringBilder-Object-Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String-StringBilder-Object-Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

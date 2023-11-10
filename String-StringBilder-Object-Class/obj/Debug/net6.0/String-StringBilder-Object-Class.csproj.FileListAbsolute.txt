@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\bin\Debug\net6.0\String-StringBilder-Object-Class.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\bin\Debug\net6.0\String-StringBilder-Object-Class.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\bin\Debug\net6.0\String-StringBilder-Object-Class.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\bin\Debug\net6.0\String-StringBilder-Object-Class.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\bin\Debug\net6.0\String-StringBilder-Object-Class.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\refint\String-StringBilder-Object-Class.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\String-StringBilder-Object-Class.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\String-StringBilder-Object-Class\String-StringBilder-Object-Class\obj\Debug\net6.0\ref\String-StringBilder-Object-Class.dll
