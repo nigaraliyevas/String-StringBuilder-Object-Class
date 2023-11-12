@@ -1,21 +1,22 @@
 ﻿using String_StringBilder_Object_Class.Models;
+using System.Text;
 #region task-1
 string sentence = "Salam necesen";
 Console.WriteLine(ReversedString(sentence));
 string ReversedString(string sentence)
 {
-    string changeDirection = string.Empty;
+    StringBuilder changeDirection = new StringBuilder();
     for (int i = sentence.Length - 1; i >= 0; i--)
     {
-        changeDirection += sentence[i];
+        changeDirection.Append(sentence[i]);
     }
-    string[] reversedForIndex = changeDirection.Split(' ');
+    string[] reversedForIndex = changeDirection.ToString().Split(' ');
     string result = string.Empty;
     for (int i = reversedForIndex.Length - 1; i >= 0; i--)
     {
-        result += reversedForIndex[i]; 
+        result += reversedForIndex[i]+" "; 
     }
-    return string.Join(" ", result); ;
+    return result;
 }
 #endregion
 #region task-2
